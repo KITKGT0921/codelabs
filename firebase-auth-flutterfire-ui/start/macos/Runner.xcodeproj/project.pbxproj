@@ -52,7 +52,7 @@
 			buildActionMask = 2147483647;
 			dstPath = "";
 			dstSubfolderSpec = 10;
-			files = (상병 이원욱 , 미열람
+			files = (
 			);
 			name = "Bundle Framework";
 			runOnlyForDeploymentPostprocessing = 0;
